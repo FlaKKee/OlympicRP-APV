@@ -1,4 +1,4 @@
-site_name: Stad Gent Wetboek
+site_name: NoordveldRP Wetboek
 theme:
   name: material
   features:
@@ -42,4 +42,4 @@ extra:
       link: https://discord.gg/5CnzPFU42z
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">Stad Gent Roleplay</a>
+  &copy; 2024 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">Noordveld Roleplay</a>
