@@ -1,4 +1,4 @@
-# Stad Gent APV
+# NoordveldRP APV
 
 ## **Strafbepaling**
 
@@ -317,7 +317,7 @@ Onder Metagaming wordt verstaan: Het verkrijgen van informatie die je buiten de 
 Enkele voorbeelden van metagaming zijn:
 
 - Het gebruiken van informatie uit Discord kanalen buiten de daarvoor bestemde kanalen;
-- Het is verboden om te screen sharen binnen Stad Gent RolePlay;
+- Het is verboden om te screen sharen binnen Noordveld RolePlay;
 - Je dient ten alle tijden gedempt te zijn in discord als je ingame bent.
 - Het maken van een Website (Casino / Cardealer / etc... ) is verboden ( Zonder toestemming van Hogerop )
 
