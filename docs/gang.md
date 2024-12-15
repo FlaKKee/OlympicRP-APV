@@ -10,7 +10,7 @@ Maximaal aantal leden
 
 Samenwerken groeperingen
 
-- Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring. Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinator van Stad Gent Roleplay.
+- Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring. Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinator van Noordveld Roleplay.
 - Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
 
 **^^Bij overtreding: gangwarn en een straf volgens de 2e categorie voor de eigenaren van de gang (ban van 8 uur).^^**
