@@ -52,7 +52,7 @@ Wij vinden het belangrijk dat iedereen welkom is en zichzelf kan zijn, haatdrage
 **^^Bij overtreding: Permanente Ban^^**
 
 ## **Artikel 9 - Onderwereld discord**
-- In de onderwereld Discord is het niet toegestaan om in Noordveld Roleplay te spelen terwijl je in outgame zit. Als je in de stad bent, ben je ingame. Het ingame oortje heeft geen spraakmogelijkheid. Wordt er geconstateerd dat je ingame bent terwijl je in het outgame kanaaltje zit, dan krijg je een straf.
+- In de onderwereld Discord is het niet toegestaan om in Olympic Roleplay te spelen terwijl je in outgame zit. Als je in de stad bent, ben je ingame. Het ingame oortje heeft geen spraakmogelijkheid. Wordt er geconstateerd dat je ingame bent terwijl je in het outgame kanaaltje zit, dan krijg je een straf.
 
 **^^Bij overtreding: 1 dag Onderwereld Discord Ban & Categorie (ban van 2 uur)^^**
 
