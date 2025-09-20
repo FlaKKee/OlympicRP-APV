@@ -1,6 +1,6 @@
 # Content Creators
 
-Het is toegestaan om te streamen op Noordveld Roleplay ook zonder content creator rol.
+Het is toegestaan om te streamen op Olympic Roleplay ook zonder content creator rol.
 
 - Streamer modus
 - Server naamvermelding in de beschrijving / discord link
