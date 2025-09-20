@@ -1,16 +1,16 @@
-# NoordveldRP APV
+# Olympic Roleplay APV
 
 ## **Strafbepaling**
 
 De straffen zijn onderverdeeld in verschillende categorieën:
 
-- Categorie 1: Een ban van 2 uur.
-- Categorie 2: Een ban van 8 uur.
-- Categorie 3: Een ban van maximaal 2 dagen
-- Categorie 4: Een ban van maximaal 3 dagen
-- Categorie 5: Een ban van maximaal 1 week
-- Categorie 6: Een ban van maximaal 2 weken
-- Categorie 7: Een ban van maximaal 1 maand
+- Categorie 1: Een ban van 2 uur + 20 taakstraffen.
+- Categorie 2: Een ban van 8 uur + 50 taakstraffen.
+- Categorie 3: Een ban van maximaal 2 dagen + 100 taakstraffen.
+- Categorie 4: Een ban van maximaal 3 dagen + 150 taakstraffen.
+- Categorie 5: Een ban van maximaal 1 week + 200 taakstraffen.
+- Categorie 6: Een ban van maximaal 2 weken + 300 taakstraffen.
+- Categorie 7: Een ban van maximaal 1 maand + 500 taakstraffen
 - Categorie 8: Een account wipe
 - Categorie 9: Permanente ban
 
@@ -317,7 +317,7 @@ Onder Metagaming wordt verstaan: Het verkrijgen van informatie die je buiten de 
 Enkele voorbeelden van metagaming zijn:
 
 - Het gebruiken van informatie uit Discord kanalen buiten de daarvoor bestemde kanalen;
-- Het is verboden om te screen sharen binnen Noordveld RolePlay;
+- Het is verboden om te screen sharen binnen Olympic RolePlay;
 - Je dient ten alle tijden gedempt te zijn in discord als je ingame bent.
 - Het maken van een Website (Casino / Cardealer / etc... ) is verboden ( Zonder toestemming van Hogerop )
 
