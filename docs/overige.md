@@ -31,7 +31,7 @@ Het is verboden om Erotische roleplay uit te voeren en/of aan te gaan. Als enige
 
 ## **Artikel 53 - Startersgeld**
 
-Het is niet toegestaan om je starters geld aan andere spelers te geven zonder bedoeling te hebben om zelf Noordveld Roleplay te gaan spelen.
+Het is niet toegestaan om je starters geld aan andere spelers te geven zonder bedoeling te hebben om zelf Olympic Roleplay te gaan spelen.
 
 **^^Bij overtreding: Straf volgens de 9e categorie (Permanente ban).^^**
 
