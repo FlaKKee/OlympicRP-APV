@@ -3,14 +3,14 @@
 ## **Artikel 44 - Roleplay & Aantal leden gangs**
 
 Maximaal aantal leden
-- Een gang mag maximaal 5 leden hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen.
+- Een gang mag maximaal 10 leden hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen.
 - Het meelopen met een gang mag enkel als hier plek voor is.
 
 **^^Bij overtreding: gangwarn en een straf volgens de 2e categorie voor de eigenaren van de gang (ban van 8 uur).^^**
 
 Samenwerken groeperingen
 
-- Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring. Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinator van Noordveld Roleplay.
+- Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring. Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinator van Olympic Roleplay.
 - Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
 
 **^^Bij overtreding: gangwarn en een straf volgens de 2e categorie voor de eigenaren van de gang (ban van 8 uur).^^**
