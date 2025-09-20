@@ -11,8 +11,8 @@ De straffen zijn onderverdeeld in verschillende categorieën:
 - Categorie 5: Een ban van maximaal 1 week + 200 taakstraffen.
 - Categorie 6: Een ban van maximaal 2 weken + 300 taakstraffen.
 - Categorie 7: Een ban van maximaal 1 maand + 500 taakstraffen
-- Categorie 8: Een account wipe
-- Categorie 9: Permanente ban
+- Categorie 8: Een account wipe.
+- Categorie 9: Permanente ban.
 
 Let op: Wanneer jij meerdere malen hetzelfde artikel overtreed zal er een hogere straf toegewezen worden.
 
